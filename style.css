@@ -1,0 +1,33 @@
+body {
+  background-color: #FEF8E8;
+  margin: 0;
+  padding: 0;
+  height: 100%;
+  width: 100%;
+}
+
+.logo-jumbo {
+  margin: 72px;
+  width: 70%;
+  max-width: 600px;
+}
+
+.logo-subtext {
+  font-family: 'Open Sans', sans-serif;
+  font-weight: 800;
+}
+
+.floor-bottle {
+  position: absolute;
+  bottom: 0;
+  max-width: 500px;
+  margin-top: 96px;
+  margin-left: auto;
+  margin-right: auto;
+  right: 1;
+  left: 1;
+}
+
+.centered {
+  text-align: center;
+}
